@@ -18,5 +18,5 @@ This is a simple game built to test a users memory. There's a deck of cards with
 * Rating will be provided as stars based on the time taken and the number of moves.
 
 ## How to Run:
-1. [Download]() or [Clone](https://github.com/nithya693/Memory-Game.git) the Repository.
+1. [Download or Clone](https://github.com/nithya693/Memory-Game.git) the Repository.
 2. Open `index.html` file to view the project in your browser.
